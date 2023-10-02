@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body {
+    font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+    letter-spacing: 0.05em;
+    max-width: 100%;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+.left {
+    background-image: url(./images/bg_main.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
